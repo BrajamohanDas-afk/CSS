@@ -1,0 +1,19 @@
+body{
+    background-color:#000000;    
+
+    }  
+    h1{
+        color: #ffffff;
+    }
+    p{
+        background-color: #000000;
+        color: #ffffff;
+    
+    }
+    #p2{
+        color: green;
+    }
+
+    .odd{
+        color: rgb(150, 150, 140);
+    }

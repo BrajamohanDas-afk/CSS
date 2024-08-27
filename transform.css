@@ -1,0 +1,35 @@
+#box1{
+    border: 4px solid;
+    height: 250px;
+    width: 250px;
+    font-size: 240px;
+    text-align: center;
+    background-color: lightgreen;
+
+
+    transform :translateX( 50px);
+    transform :translateY( 5Øpx);
+    transform :translate(50px, 50px);
+    transform :rotateX(18Ødeg) ;
+    transform :rotateY(18Ødeg);
+    transform :rotateZ (18Ødeg) ;
+    transform :scaleX(3);
+    transform :scaleY(3);
+    transform :scale(2,2);
+    transform :skewX(45deg);
+    transform :skewy(45deg);
+    transform :skew(20deg,20deg);
+
+    translate: matrix(0,0,0,0,0,0);
+
+}
+
+/* transfrom uses the graph like x,y,z axis */
+
+/* matrix combines the following:
+scaleX()'
+skewY( ) ,
+skewX(),
+scaleY()'
+translateX(),
+translateY() */

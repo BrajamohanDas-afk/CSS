@@ -1,0 +1,30 @@
+body{
+    margin: 0px
+}
+
+
+
+
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: lightgreen;
+/*
+    margin: 50px;
+*/
+
+margin-left: auto;
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: skyblue;
+
+
+    margin: 50px;
+}
